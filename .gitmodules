@@ -1,0 +1,3 @@
+[submodule "comp2152_labs"]
+	path = comp2152_labs
+	url = https://github.com/AkukaraMaaz/comp2152_labs.git
